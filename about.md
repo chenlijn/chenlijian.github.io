@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+My name is Lijian Chen, a software engineer focusing on computer vision and computer graphics. I received my master degree majored in "Systems, control and Signal Processing" from University of Southampton in 2016. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:lc4g15@soton.ac.uk)
