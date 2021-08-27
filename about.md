@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### Charlie Chen
+### Lijian Chen
 
 A software engineer focusing on computer vision and computer graphics. I received my master degree majored in "Systems, control and Signal Processing" from University of Southampton in 2016. 
 
